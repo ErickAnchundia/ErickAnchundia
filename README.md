@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am <a href="https://www.linkedin.com/in/erick-fabricio-anchundia-rodriguez-6b297a328/">Erick Anchundia</a> 👋</h1>
 </div>
-<img src="https://imgur.com/j8BH4wW">
+<img src="https://i.imgur.com/j8BH4wW.png">
 
 ![Static Badge](https://img.shields.io/badge/Nmap--8A2BE2?style=social&logo=npm&logoColor=4682B4&labelColor=8A2BE2&color=8A2BE2)
 ![Static Badge](https://img.shields.io/badge/Metasploit--8A2BE2?style=social&logo=metasploit&logoColor=005FAD&labelColor=8A2BE2&color=8A2BE2)
